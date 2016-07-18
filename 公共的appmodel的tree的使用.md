@@ -43,8 +43,11 @@
     appModelTree.Tree()是一个可以直接生成tree的函数
     4个参数
      > `$tree` 需要生成tree的jQuery对象，一个div 
+     
      > syscode 系统参数的编码，来供查询是什么应用模型的tree
+     
      > withtag 查询出来的tree是否带有指标，ture 或 false
+     
      > ischeckbox 是否带有复选框，这里是简单的复选框，复杂的用法请使用`$.appmodeltree`这个函数
  
  2. 扩展jstree ,和之前jstree使用方式一样
