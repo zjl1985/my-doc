@@ -15,7 +15,7 @@
     </dependency>
     ```
 
-2. 之后在index下添加js引用,同时之前必须引用过jstree的相关js和css
+2. 之后在需要使用的页面下添加js引用,同时之前必须引用过jstree的相关js和css
 
  ```javascript
     <script src="assets/global/scripts/appmodel-tree.js" type="text/javascript"></script>
