@@ -77,7 +77,8 @@
      ```
      多了两个自定的属性
    >  withtag 系统参数的编码，来供查询是什么应用模型的tree
-     syscode 查询出来的tree是否带有指标，ture 或 false
+   
+   > syscode 查询出来的tree是否带有指标，ture 或 false
      
 jstree的api
 https://www.jstree.com/api/
